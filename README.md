@@ -22,6 +22,5 @@ To contribute to the success of a business by utilizing data analysis techniques
 
 
 
-   -
-       -
+   
    
